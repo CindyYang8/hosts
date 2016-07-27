@@ -10,6 +10,8 @@
 | :----------------------------: | :-----------------------------------: |  :---------------------------: |
 |  [![chat-metadata]][chat-room] |  [![travis-metadata]][travis-status]  |   [![coding.net]][coding.net]  |
 
+只想上Google者，请上 https://www.ytso.cc 即可Google，无需修改Hosts文件！
+
 [chat-metadata]: https://badges.gitter.im/racaljk/hosts.svg "Join the chat at https://gitter.im/racaljk/hosts"
 [chat-room]: https://gitter.im/racaljk/hosts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge "Gitter chat room"
 [travis-metadata]: https://travis-ci.org/racaljk/hosts.svg "Travis CI Metadata"
